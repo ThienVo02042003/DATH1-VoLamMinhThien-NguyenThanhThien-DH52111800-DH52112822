@@ -1,0 +1,47 @@
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe.config
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmAddform.resources
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmDetail.resources
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmQLDB.resources
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmSearch.resources
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ASUS\Downloads\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe.config
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.pdb
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\FontAwesome.Sharp.dll
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.AssemblyReference.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmAddform.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmDetail.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmQLDB.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmSearch.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.Properties.Resources.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.GenerateResource.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CoreCompileInputs.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe.config
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmAddform.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmDetail.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmQLDB.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmSearch.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmBlockList.resources
+C:\Users\ACER\OneDrive\Tài liệu\Bài học\Lưu Trữ IT\Đồ Án Tin Học - 2023\DanhBaDienThoai\DanhBaDienThoai\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmChooseNumber.resources
